@@ -1727,9 +1727,9 @@ dependencies = [
 
 [[package]]
 name = "test-env-log"
-version = "0.2.3"
+version = "0.2.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "356cdd574433fe2bce7ffa193edff9c931fc8d74422c5be4b03144a27f751f18"
+checksum = "e00ed978da1d8f9b66685f1e7ececb8e81ac7ea5bc76ac138146863dacad2f22"
 dependencies = [
  "proc-macro2",
  "quote",
